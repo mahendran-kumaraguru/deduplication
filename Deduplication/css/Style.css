@@ -1,0 +1,42 @@
+﻿body {
+}
+
+.filetable
+{
+
+	margin-top:25%;
+	text-align:justify;
+	position:absolute;
+	
+}
+.cloud
+{
+    background: url('../img/cloud.png') no-repeat;
+    align:center;
+    padding-top:5%;
+}
+.mailid
+{
+    font-weight:lighter;
+}
+.safe
+{
+    color:Green;
+}
+.mod
+{
+    color:#f60;
+}
+.ren
+{
+    color:#f63;
+}
+.del
+{
+    color:#f00;
+}
+
+.rounded
+{
+    border-radius: 60px;
+}

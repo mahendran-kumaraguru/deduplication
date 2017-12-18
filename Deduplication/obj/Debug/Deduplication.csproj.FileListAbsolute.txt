@@ -1,0 +1,37 @@
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Deduplication.dll
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Deduplication.pdb
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Blowfish.dll
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\IKVM.OpenJDK.Core.dll
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\IKVM.Runtime.dll
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Dropbox.Api.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Microsoft.Threading.Tasks.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Microsoft.Threading.Tasks.Extensions.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\Newtonsoft.Json.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.IO.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.Net.Http.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.Net.Http.Extensions.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.Net.Http.Primitives.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.Net.Http.WebRequest.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.Runtime.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\bin\System.Threading.Tasks.xml
+W:\College\project\Deduplication - 08 04 16\Deduplication\obj\Debug\ResolveAssemblyReference.cache
+W:\College\project\Deduplication - 08 04 16\Deduplication\obj\Debug\Deduplication.dll
+W:\College\project\Deduplication - 08 04 16\Deduplication\obj\Debug\Deduplication.pdb
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Deduplication.dll
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Deduplication.pdb
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Dropbox.Api.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Microsoft.Threading.Tasks.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Microsoft.Threading.Tasks.Extensions.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\Newtonsoft.Json.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.IO.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.Net.Http.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.Net.Http.Extensions.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.Net.Http.Primitives.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.Net.Http.WebRequest.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.Runtime.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\bin\System.Threading.Tasks.xml
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\obj\Debug\ResolveAssemblyReference.cache
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\obj\Debug\Deduplication.dll
+M:\Files. old\Project\College\Project CD\Deduplication\Deduplication\obj\Debug\Deduplication.pdb
